@@ -1,6 +1,6 @@
 # Script developer and graphics design enthusiast.
 
-<img src="https://pbs.twimg.com/profile_banners/920480040848183296/1714335163/600x200" width=600 height=200/>
+<img src="https://media.discordapp.net/attachments/870377952066539572/1252576946450333748/Avatars_115.jpg?ex=6672b8af&is=6671672f&hm=663dc47109db2abc3ff4306b72556f5841e805e5321c3e9505d1c34eeea215b2&=&format=webp&width=823&height=905">
 
 <!--
 **gearlocust/gearlocust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

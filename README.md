@@ -1,4 +1,6 @@
-## Hi there 👋
+# Script developer and graphics design enthusiast.
+
+<img src="https://pbs.twimg.com/profile_banners/920480040848183296/1714335163/600x200" width=600 height=200/>
 
 <!--
 **gearlocust/gearlocust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

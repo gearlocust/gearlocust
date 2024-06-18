@@ -1,6 +1,6 @@
 # Script developer and graphics design enthusiast.
 
-<img src="https://media.discordapp.net/attachments/870377952066539572/1252576946450333748/Avatars_115.jpg?ex=6672b8af&is=6671672f&hm=663dc47109db2abc3ff4306b72556f5841e805e5321c3e9505d1c34eeea215b2&=&format=webp&width=823&height=905">
+<img src="https://media.discordapp.net/attachments/870377952066539572/1252577597028827298/Avatars_1151.jpg?ex=6672b94a&is=667167ca&hm=c653736e37ec56ba13acf8e85256c9c03eb61fd8ca10976cb72da500645d281f&=&format=webp">
 
 <!--
 **gearlocust/gearlocust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
